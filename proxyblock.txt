@@ -1,0 +1,6 @@
+lsrelay-extensions-production.s3.amazonaws.com
+lsrelay-config-production.s3.amazonaws.com
+ws-db.lsfilter.com
+rs-db.lsfilter.com
+mobile.lsfilter.com
+api.lsfilter.com
