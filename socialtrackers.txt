@@ -1,1 +1,4 @@
 pro-accounts.snapchat.com
+syndication.twitter.com
+platform.twitter.com
+connect.facebook.net
