@@ -1,0 +1,15 @@
+#YouTube blocking
+mtalk.google.com
+www.youtube.com
+youtube.com
+youtu.be
+youtube-nocookie.com
+googlevideo.com
+youtube.googleapis.com
+youtubei.googleapis.com
+ytimg.com
+ytimg.l.google.com
+i.ytimg.com
+i1.ytimg.coom
+play.google.com
+yt3.ggpht.com
