@@ -1,0 +1,7 @@
+#VPN services
+api.surfeasy.com
+de0.opera-proxy.net
+surfeasy.com
+api.sec-tunnel.com
+sitecheck2.opera.com
+opera-mini.net
