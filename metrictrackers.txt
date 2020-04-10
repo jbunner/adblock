@@ -22,3 +22,4 @@ video-shield.mediavine.com
 w.triller.co
 www.googleadservices.com
 js.driftt.com
+pandata-events.prod-iad.inshosteddata.com
