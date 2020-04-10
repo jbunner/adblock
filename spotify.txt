@@ -1,0 +1,5 @@
+#spotify services
+spotify.com
+www.spotify.com
+open.spotify.com
+spclient.wg.spotify.com
