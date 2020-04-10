@@ -10,6 +10,11 @@ youtubei.googleapis.com
 ytimg.com
 ytimg.l.google.com
 i.ytimg.com
-i1.ytimg.coom
+i1.ytimg.com
+i2.ytimg.com
 play.google.com
 yt3.ggpht.com
+lh3.googleusercontent.com
+s.youtube.com
+redirector.googlevideo.com
+play.googleapis.com
