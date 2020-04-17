@@ -25,3 +25,5 @@ lh3.googleusercontent.com
 s.youtube.com
 redirector.googlevideo.com
 play.googleapis.com
+img.youtube.com
+m.youtube.com
