@@ -27,3 +27,5 @@ redirector.googlevideo.com
 play.googleapis.com
 img.youtube.com
 m.youtube.com
+accounts.youtube.com
+mtalk.google.com
