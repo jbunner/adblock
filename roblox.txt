@@ -3,6 +3,7 @@ realtime.roblox.com
 abtesting.roblox.com
 apis.roblox.com
 api.roblox.com
+captcha.roblox.com
 wildcard.roblox.com.edgesuite.net
 groups.roblox.com
 assetdelivery.roblox.com
