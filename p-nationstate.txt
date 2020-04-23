@@ -1,0 +1,7 @@
+#infinitynewtab - chinese data collection terms violation
+api.infinitynewtab.com
+static-api.infinitynewtab.com
+img.infinitynewtab.com
+infinity-basic.infinitynewtab.com
+icon-list.infinitynewtab.com
+basic-static-server.infinitynewtab.com
