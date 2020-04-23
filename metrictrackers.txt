@@ -24,3 +24,8 @@ www.googleadservices.com
 js.driftt.com
 pandata-events.prod-iad.inshosteddata.com
 metrics.icloud.com
+metrics.cvshealth.com
+securemetrics.apple.com
+smetrics.cnn.com
+metrics.roblox.com
+metrics.brightcove.com
