@@ -29,3 +29,4 @@ securemetrics.apple.com
 smetrics.cnn.com
 metrics.roblox.com
 metrics.brightcove.com
+rtm.tnt-ea.com
