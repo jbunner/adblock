@@ -31,3 +31,4 @@ metrics.roblox.com
 metrics.brightcove.com
 rtm.tnt-ea.com
 tracking.leadlander.com
+event.wbinsights.com
