@@ -1,0 +1,6 @@
+#Google hangouts
+hangouts.google.com
+meet.google.com
+chat.google.com
+dynamite.sandbox.google.com
+talkgadget.google.com
