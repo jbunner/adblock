@@ -3,7 +3,10 @@ mtalk.google.com
 www.youtube.com
 youtube.com
 youtu.be
+www.youtube-nocookie.com
 youtube-nocookie.com
+restrict.youtube.com
+restrictmoderate.youtube.com
 googlevideo.com
 youtube.googleapis.com
 youtubei.googleapis.com
