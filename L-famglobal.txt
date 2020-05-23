@@ -1,0 +1,5 @@
+#global block house rules
+groups.roblox.com
+contacts.roblox.com
+chat.roblox.com
+metrics.roblox.com
