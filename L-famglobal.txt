@@ -7,3 +7,4 @@ presence.roblox.com
 payperclickadz.com
 teredo.ipv6.microsoft.com
 debug.opendns.com
+connectivitycheck.gstatic.com
