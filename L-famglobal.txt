@@ -3,3 +3,7 @@ groups.roblox.com
 contacts.roblox.com
 chat.roblox.com
 metrics.roblox.com
+presence.roblox.com
+payperclickadz.com
+teredo.ipv6.microsoft.com
+debug.opendns.com
