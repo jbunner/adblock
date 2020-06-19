@@ -12,7 +12,6 @@ app.musical.ly
 m.tiktok.com
 vm.tiktok.com
 www.tiktok.com
-graph.facebook.com
 exchange.mediavine.com
 keywords.mediavine.com
 pages.mediavine.com
@@ -32,3 +31,4 @@ metrics.brightcove.com
 rtm.tnt-ea.com
 tracking.leadlander.com
 event.wbinsights.com
+api.segment.io
