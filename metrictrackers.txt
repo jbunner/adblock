@@ -33,3 +33,4 @@ tracking.leadlander.com
 event.wbinsights.com
 api.segment.io
 mcstats.spigotmc.org
+stats.qalabs.symantec.com
