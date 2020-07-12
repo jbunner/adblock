@@ -5,3 +5,11 @@ img.infinitynewtab.com
 infinity-basic.infinitynewtab.com
 icon-list.infinitynewtab.com
 basic-static-server.infinitynewtab.com
+#computrace
+search.namequery.com
+search2.namequery.com
+search64.namequery.com
+search.us.namequery.com
+bh.namequery.com
+namequery.nettrace.co.za
+m229.absolute.com
