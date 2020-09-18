@@ -1,0 +1,8 @@
+#scratch
+scratch.mit.edu
+api.scratch.mit.edu
+fast.wistia.com
+uploads.scratch.mit.edu
+cdn.scratch.mit.edu
+cdn2.scratch.mit.edu
+assets.scratch.mit.edu
