@@ -1,0 +1,22 @@
+#microsoft teams 20201110
+teams.microsoft.com
+config.teams.microsoft.com
+presence.teams.microsoft.com
+teams.events.data.microsoft.com
+teamsgeo.trouter-teams-prod.akadns.net
+go.trouter.teams.microsoft.com
+statics.teams.cdn.office.net
+cxcs.microsoft.net
+substrate.office.com
+flightproxy-ussc-03-teams.cloudapp.net
+cc-usea-06-skype.cloudapp.net
+trouter2-ussc-1-a.cloudapp.net
+trouter2-ussc-1-a.trouter.teams.microsoft.com
+api.userstore.skype.com
+api3.cc.skype.com
+api.flightproxy.teams.microsoft.com
+worldaz.tr.teams.microsoft.com
+eastus-prod-2.notifications.teams.microsoft.com
+amer.ng.msg.teams.microsoft.com
+us-prod.asyncgw.teams.microsoft.com
+us-api.asm.skype.com
