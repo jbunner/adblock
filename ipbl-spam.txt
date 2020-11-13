@@ -1,0 +1,4 @@
+;persistent spammers, not blocked by other RBLs
+107.172.0.0/14 ;colocrossing AS36352 20201113
+69.72.32.0/20 ;mailgun UCE 20201113
+62.210.0.0/16 ;onlineSAS FR malware 20201113
