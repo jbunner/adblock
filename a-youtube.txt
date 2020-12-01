@@ -32,3 +32,5 @@ img.youtube.com
 m.youtube.com
 accounts.youtube.com
 mtalk.google.com
+music.youtube.com
+apps.mzstatic.com
