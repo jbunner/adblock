@@ -1,0 +1,17 @@
+#xbox live, windows live gaming
+userpresence.xboxlive.com
+catalog.gamepass.com
+login.live.com
+tile.mgt.xboxlive.com
+xsts.auth.xboxlive.com
+notify.xboxlive.com
+notificationinbox.xboxlive.com
+social.xboxlive.com
+comments.xboxlive.com
+dlassets-ssl.xboxlive.com
+profile.xboxlive.com
+www.livestream.com
+storage.live.com
+windows.policies.live.net
+qjnnlive.elexapp.com
+skypexbox.skype.com
