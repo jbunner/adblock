@@ -1,0 +1,20 @@
+#whitelist for FLVS sites
+flvs.net
+www.flvs.net
+login.flvs.net
+vsa.flvs.net
+cdn.flvs.net
+orange.flvs.net
+#3rd party
+flvshelpcenter.knowledgeowl.com
+apis.google.com
+ssl.gstatic.com
+content.googleapis.com
+fonts.googleapis.com
+drive.google.com
+lh3.googleusercontent.com
+lh6.googleusercontent.com
+accounts.google.com
+docs.google.com
+fonts.gstatic.com
+play.google.com
