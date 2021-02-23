@@ -1,2 +1,5 @@
-#Origins known for HTTP scans
-192.241.128.0/17 #DigitalOcean persistent 20210223
+;Origins known for HTTP scans
+192.241.128.0/17 ;DigitalOcean persistent 20210223
+162.243.0.0/16 ;DigitalOcean persistent 20210223
+122.116.0.0/16 ;HINET-NET persistent 20210223
+192.35.168.0/23 ;censys.io persistent 20210223
