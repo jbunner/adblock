@@ -1,0 +1,2 @@
+#Origins known for HTTP scans
+192.241.128.0/17 #DigitalOcean persistent 20210223
