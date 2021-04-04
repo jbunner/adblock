@@ -1,5 +1,12 @@
 ;Origins known for HTTP scans
 192.241.128.0/17 ;DigitalOcean persistent 20210223
 162.243.0.0/16 ;DigitalOcean persistent 20210223
+134.209.0.0/16 ;DigitalOcean persistent 20210404
+59.126.0.0/16 ;HINET-NET persistent 20210404
 122.116.0.0/16 ;HINET-NET persistent 20210223
+122.117.0.0/16 ;HINET-NET persistent 20210404
+114.35.0.0/16 ;HINET-NET persistent 20210404
 192.35.168.0/23 ;censys.io persistent 20210223
+167.248.133.0/24 ;censys.io persistent 20210404
+45.146.164.0/23 ;CY-STARCRECIUM persistent 20210404
+88.0.0.0/12 ;Telefonica de Espana SAU persistent 20210404
