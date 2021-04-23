@@ -10,3 +10,4 @@
 167.248.133.0/24 ;censys.io persistent 20210404
 45.146.164.0/23 ;CY-STARCRECIUM persistent 20210404
 88.0.0.0/12 ;Telefonica de Espana SAU persistent 20210404
+5.188.206.0/24 ;TAIL-NET 20210422
