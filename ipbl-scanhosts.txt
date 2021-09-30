@@ -25,3 +25,4 @@
 91.132.58.0/24 ;dedires SIP scan 20210615
 185.224.129.0/24 ;SpectraIP B.V. 20210615
 104.194.8.0/22 ;ReliableSite.Net LLC NTP DDoS 20210615
+209.141.32.0/19 ;ponynet frantech Malware 20210930
