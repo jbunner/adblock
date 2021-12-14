@@ -3,6 +3,7 @@
 192.241.128.0/17 ;DigitalOcean persistent 20210223
 162.243.0.0/16 ;DigitalOcean persistent 20210223
 134.209.0.0/16 ;DigitalOcean persistent 20210404
+142.93.0.0/16 ;DigitalOcean persistent 20211214
 59.126.0.0/16 ;HINET-NET persistent 20210404
 122.116.0.0/16 ;HINET-NET persistent 20210223
 122.117.0.0/16 ;HINET-NET persistent 20210404
