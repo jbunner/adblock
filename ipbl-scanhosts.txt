@@ -47,3 +47,5 @@
 23.183.83.0/24 ;ponynet frantech Malware 20210930
 45.61.128.0/18 ;ponynet frantech Malware 20210930
 5.181.156.0/22 ;MivoCloud Republic of Moldova Malware 20220114
+177.154.49.0/24 ;20220320
+81.193.156.0/24 ;20220320
