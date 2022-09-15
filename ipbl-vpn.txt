@@ -1,0 +1,9 @@
+;VPN providers facilitating attack/scan compromises
+149.18.0.0/16 ;LogicWeb Inc. 20220915
+149.57.0.0/16 ;LogicWeb Inc. 20220915
+154.6.0.0/16 ;LogicWeb Inc. 20220915
+173.239.192.0/18 ;LogicWeb Inc. 20220915
+173.244.32.0/19 ;LogicWeb Inc. 20220915
+64.64.96.0/19 ;LogicWeb Inc. 20220915
+98.159.224.0/20 ;LogicWeb Inc. 20220915
+98.159.32.0/20 ;LogicWeb Inc. 20220915
