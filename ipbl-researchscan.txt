@@ -1,4 +1,7 @@
 ;Last Updated 230709 IP research scanners, Censys, Shodan
+199.45.154.0/24 ;Censys 240416
+199.45.155.0/24 ;Censys 240416
+206.168.34.0/24 ;Censys 240416
 162.142.125.0/24 ;Censys 230709
 167.94.138.0/24 ;Censys 230709
 167.94.145.0/24 ;Censys 230709
